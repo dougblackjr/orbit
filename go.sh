@@ -1,2 +1,2 @@
 #!/bin/sh
-zip -r build/cartly-"$1".zip cartly themes README.md
+zip -r build/orbit-"$1".zip orbit README.md
